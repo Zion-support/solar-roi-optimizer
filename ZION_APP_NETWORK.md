@@ -1,23 +1,21 @@
-# Zion App Network — Interlinks
+# 🌐 Zion App Network — Interlinks
 
-**solar-roi-optimizer** is part of the [Zion AI App Network](https://github.com/Zion-support/zion-app-network) — 822+ interlinked AI apps by [Zion Tech Group](https://ziontechgroup.com/).
+**Solar ROI Optimizer** is part of the Zion Tech Group app network (315+ flagship apps).
 
-## Core links
-- Homepage: https://ziontechgroup.com/
-- Plans & pricing: https://ziontechgroup.com/en/plans/
-- Discovery call: https://ziontechgroup.com/discovery/
-- All tools: https://ziontechgroup.com/tools/
-- Hub page: https://ziontechgroup.com/zion-app-network/
-- Live page: https://ziontechgroup.com/solar-roi-optimizer/
+## Energy & Facilities AI Suite (Batch 72)
+| App | Focus |
+|---|---|
+| [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor) | HVAC/lighting/envelope audit insights |
+| **Solar ROI Optimizer** (this repo) | Solar payback, sizing & incentives |
+| [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) | Load & usage forecasting |
+| [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) | Demand response & peak shaving |
 
-## Batch 72 — Energy & Sustainability AI
-- [energy-consumption-forecaster](https://github.com/Zion-support/energy-consumption-forecaster) — https://ziontechgroup.com/energy-consumption-forecaster/
-- [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — https://ziontechgroup.com/carbon-footprint-tracker/
-- [solar-roi-optimizer](https://github.com/Zion-support/solar-roi-optimizer) — https://ziontechgroup.com/solar-roi-optimizer/
-- [grid-demand-balancer](https://github.com/Zion-support/grid-demand-balancer) — https://ziontechgroup.com/grid-demand-balancer/
-- [esg-report-builder](https://github.com/Zion-support/esg-report-builder) — https://ziontechgroup.com/esg-report-builder/
-- [building-efficiency-auditor](https://github.com/Zion-support/building-efficiency-auditor) — https://ziontechgroup.com/building-efficiency-auditor/
+## Adjacent suites
+- 🛡️ **AI Security & Trust:** [Prompt Shield](https://github.com/Zion-support/zion-prompt-shield) · [Data Guardian](https://github.com/Zion-support/zion-data-guardian) · [AI Red Team](https://github.com/Zion-support/zion-ai-red-team) · [Model Integrity](https://github.com/Zion-support/zion-model-integrity) · [AI Compliance Copilot](https://github.com/Zion-support/zion-ai-compliance-copilot) · [Incident Triage](https://github.com/Zion-support/zion-incident-triage)
+- 🛠️ **ITOps AI:** [AI ROI Tracker](https://github.com/Zion-support/zion-ai-roi-tracker) · [Incident Postmortem Writer](https://github.com/Zion-support/zion-incident-postmortem-writer) · [Patch Window Planner](https://github.com/Zion-support/zion-patch-window-planner)
+- 👥 **HR & Workforce AI:** [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) · [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) · [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
 
-Previous batch: [Batch 71 — AI Agent Engineering & Code Assistant Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-03-BATCH71.md)
-
-© 2026 Zion Tech Group
+## Network hubs
+- 📦 Hub repo: https://github.com/Zion-support/zion-network
+- 🏠 Homepage: https://ziontechgroup.com
+- 💼 Commercial: commercial@ziontechgroup.com
