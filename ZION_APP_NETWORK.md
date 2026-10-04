@@ -10,7 +10,7 @@
 - Hub page: https://ziontechgroup.com/zion-app-network/
 - Live page: https://ziontechgroup.com/solar-roi-optimizer/
 
-## Batch 71 — Energy & Sustainability AI
+## Batch 72 — Energy & Sustainability AI
 - [energy-consumption-forecaster](https://github.com/Zion-support/energy-consumption-forecaster) — https://ziontechgroup.com/energy-consumption-forecaster/
 - [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — https://ziontechgroup.com/carbon-footprint-tracker/
 - [solar-roi-optimizer](https://github.com/Zion-support/solar-roi-optimizer) — https://ziontechgroup.com/solar-roi-optimizer/
@@ -18,6 +18,6 @@
 - [esg-report-builder](https://github.com/Zion-support/esg-report-builder) — https://ziontechgroup.com/esg-report-builder/
 - [building-efficiency-auditor](https://github.com/Zion-support/building-efficiency-auditor) — https://ziontechgroup.com/building-efficiency-auditor/
 
-Previous batch: [Batch 70 — AI Platform & Engineering Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-01-BATCH70.md)
+Previous batch: [Batch 71 — AI Agent Engineering & Code Assistant Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-03-BATCH71.md)
 
 © 2026 Zion Tech Group
